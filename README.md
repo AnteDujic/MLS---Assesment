@@ -29,7 +29,7 @@ MLS-Assesment
 
 ### HOW TO RUN THIS PROJECT?
 
-1. Clone the repository from the [GitHub](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis.git)
+1. Clone the repository from the [GitHub](https://github.com/AnteDujic/MLS-Assessment)
 2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 3. Download [cmder](https://cmder.net/)
 4. Run Jupyter Lab or Jupyter Notebook
@@ -58,3 +58,7 @@ Intro
 Intro
 
 #### 05 - ANOMALY_DETECTION
+
+
+### REFERENCES 
+- LISTED IN CORRESPONDING NOTEBOOKS
