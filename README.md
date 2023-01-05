@@ -37,7 +37,7 @@ MLS-Assesment
 
 Alternatively:
 
-[pyplot.ipynb](#pyplot)
+[NB](#nb)
     - [![nbviewer]()]() *click to see static version*
     
     
