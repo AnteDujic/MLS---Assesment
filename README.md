@@ -37,15 +37,21 @@ MLS-Assesment
 
 Alternatively:
 
-[NB](#nb)
+[pyplot.ipynb](#pyplot)
     - [![nbviewer]()]() *click to see static version*
     
     
 ### PRACTICALS
 
-Intro
+This folder contains notebooks based on the Module lectures, and are centered around different topics related to Machine Learning. The main part of each notebook are the exercises, done as weekly tasks for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, to build a narrative leading to the mentioned exercises. Below are all the notebooks and a brief explanation of each exercise.
 
 #### 01 - STATISTICS
+
+There are three exercises in this notebook. First two are centered around A Lady Tea Test, and the third one around Student T-test.
+- Exercise 1 - Calculate the minimum number of cups of tea required to ensure the probability of randomly selecting the correct cups is less than or equal to 1%
+    - Bonus: How many would be required if you were to let the taster get one cup wrong while maintaining the 1% threshold?
+- Exercise 2 - Use scipy's version of Fisher's exact test to simulate the Lady Tasting Tea problem.
+- Exercise 3 - Take the code from the Examples section of the scipy stats documentation for independent samples t-tests and explain how it works.
 
 #### 02 - MODELS
 
