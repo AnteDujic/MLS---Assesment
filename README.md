@@ -43,7 +43,7 @@ Alternatively:
     
 ### PRACTICALS
 
-This folder contains notebooks based on the Module lectures, and are centered around different topics related to Machine Learning. The main part of each notebook are the exercises, done as weekly tasks for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, to build a narrative leading to the mentioned exercises. Below are all the notebooks and a brief explanation of each exercise.
+This folder contains notebooks based on the Module lectures, and are centered around different topics related to Machine Learning. The main part of each notebook are the exercises, done as weekly assignments for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, to build a narrative around the mentioned exercises. Below are listed all the notebooks and a brief explanation of each exercise.
 
 #### 01 - STATISTICS
 
@@ -55,9 +55,18 @@ There are three exercises in this notebook. First two are centered around A Lady
 
 #### 02 - MODELS
 
+There are 
+
+- Exercise 1 - Plot the absolute value function. Research and explain why the absolute value function is not typically used in fitting straight lines to data.
+- Exercise 2 - Fit a straight line to the given data points, using numpy.polyfit, scipy.optimize.minimize and scipy.optimize.curve_fit. Is a straight line a good model for these points?
+
 #### 03 - PARAMETERS
 
+- Exercise 1 - Use numpy's polyfit to fit polynomials to the given data sets.
+
 #### 04 - LEARNING
+
+- No Exercises
 
 ### FINAL ASSESMENT
 
