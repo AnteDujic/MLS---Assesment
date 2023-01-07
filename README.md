@@ -39,10 +39,10 @@ MLS-Assessment
 Alternatively, click on the icons below to see the notebooks in your browser.
 
 PRACTICALS: <br>
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Practicals/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/3f84494fd49003a0d2e0f0d3f84f73c8236d085b/Practicals/)
 
-FINAL ASSESMENT: <br>
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Final%20Assesment/)
+FINAL ASSESSMENT: <br>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/3f84494fd49003a0d2e0f0d3f84f73c8236d085b/Final%20Assessment/)
     
     
 ### :file_folder: PRACTICALS
@@ -60,6 +60,7 @@ There are three exercises in this notebook. First two are centered around A Lady
 - Exercise 3 - Take the code from the Examples section of the scipy stats documentation for independent samples t-tests and explain how it works.
 
 #### 02 - MODELS
+***
 
 There are two exercises in this notebook.
 
