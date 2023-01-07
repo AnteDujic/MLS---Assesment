@@ -37,8 +37,11 @@ MLS-Assesment
 
 Alternatively:
 
-[pyplot.ipynb](#pyplot)
-    - [![nbviewer]()]() *click to see static version*
+PRACTICALS: <br>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Practicals/)
+
+FINAL ASSESMENT: <br>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Final%20Assesment/)
     
     
 ### PRACTICALS
