@@ -85,29 +85,29 @@ This folder contains one notebook - Anomaly detection, done as a final assesment
 
 #### 05 - ANOMALY_DETECTION
 ***
-###### • <u>INTRODUCTION<\u>
+###### • <u>INTRODUCTION</u>
 Briefly explaining the following concepts:
  - Keras
  - Time series
  - Anomaly detection
  - Autoencoder
  
-######  • <u>DATA<\u>
+######  • <u>DATA</u>
 Giving an overview of the datasets used to train and test the model for anomaly detection.
 
-###### • <u>PREPROCESSING<\u>
+###### • <u>PREPROCESSING</u>
 Preparing the datasets for the machine learning and explaining the techniques used.
 
-###### • <u>BUILD A MODEL<\u>
+###### • <u>BUILD A MODEL</u>
 Creation and compilation of the model. Brief explanation of the main concepts used for model building.
 
-###### • <u>TRAIN THE MODEL<\u>
+###### • <u>TRAIN THE MODEL</u>
 Training the previously built model.
 
-###### • <u>ANOMALY DETECTION<\u>
+###### • <u>ANOMALY DETECTION</u>
 Finally, using the model to detect anomalies.
 
-###### • <u>CONCLUSION<\u>
+###### • <u>CONCLUSION</u>
 
 
 ### REFERENCES
