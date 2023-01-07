@@ -45,7 +45,7 @@ FINAL ASSESMENT: <br>
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Final%20Assesment/)
     
     
-### PRACTICALS
+### :file_folder: PRACTICALS
 <hr style="border:2px solid gray"> </hr>
 
 This folder contains notebooks based on the Module lectures, which are centered around different topics related to Machine Learning. It also contains the img file, with diagrams used in those notebooks. The main part of each notebook are the exercises, done as weekly assignments for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, with a purpose of building a narrative around the mentioned exercises. Below are listed all the notebooks and a brief explanation of each exercise.
