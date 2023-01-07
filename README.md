@@ -36,7 +36,7 @@ MLS-Assesment
 4. Run Jupyter Lab or Jupyter Notebook
 5. Open the wanted notebook in Jupyter
 
-Alternatively:
+Alternatively, click on the icons below to see the notebooks in your browser.
 
 PRACTICALS: <br>
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/MLS-Assessment/tree/main/Practicals/)
@@ -79,33 +79,34 @@ There are
 ### :file_folder: FINAL ASSESMENT
 <hr style="border:2px solid gray"> </hr>
 
-This folder contains one notebook - Anomaly detection, done as a final assesment for this Module. The task was to recreate the anomaly detection code from Keras website, explain and further develop the concepts contained in this official documentation. Below is the breakdown of the mentioned Notebook.
+This folder contains one notebook - Anomaly detection, done as a final assesment for this Module. The task was to recreate the anomaly detection code from [Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/), explain and further develop the concepts contained in this official documentation. Below is the breakdown of the mentioned Notebook.
 
 #### 05 - ANOMALY_DETECTION
 ***
-###### * INTRODUCTION
+###### • INTRODUCTION
 Briefly explaining the following concepts:
  - Keras
  - Time series
  - Anomaly detection
  - Autoencoder
  
-######  DATA
+######  • DATA
 Giving an overview of the datasets used to train and test the model for anomaly detection.
 
-###### PREPROCESSING
+###### • PREPROCESSING
 Preparing the datasets for the machine learning and explaining the techniques used.
 
-###### BUILD A MODEL
+###### • BUILD A MODEL
 Creation and compilation of the model. Brief explanation of the main concepts used for model building.
 
-###### TRAIN THE MODEL
+###### • TRAIN THE MODEL
 Training the previously built model.
 
-###### ANOMALY DETECTION
+###### • ANOMALY DETECTION
 Finally, using the model to detect anomalies.
 
-###### CONCLUSION
+###### • CONCLUSION
+
 
 ### REFERENCES
 <hr style="border:2px solid gray"> </hr>
