@@ -43,7 +43,7 @@ Alternatively:
     
 ### PRACTICALS
 
-This folder contains notebooks based on the Module lectures, and are centered around different topics related to Machine Learning. The main part of each notebook are the exercises, done as weekly assignments for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, to build a narrative around the mentioned exercises. Below are listed all the notebooks and a brief explanation of each exercise.
+This folder contains notebooks based on the Module lectures, which are centered around different topics related to Machine Learning. It also contains the img file, with diagrams used in those notebooks. The main part of each notebook are the exercises, done as weekly assignments for the Module. The rest of the notebooks is heavily based on the lectures, with certain parts being left out or further developed, with a purpose of building a narrative around the mentioned exercises. Below are listed all the notebooks and a brief explanation of each exercise.
 
 #### 01 - STATISTICS
 
@@ -70,10 +70,33 @@ There are
 
 ### FINAL ASSESMENT
 
-Intro
+This folder contains one notebook - Anomaly detection, done as a final assesment for this Module. The task was to recreate the anomaly detection from Keras website, and explain and further develop the concepts contained in the official documentation. Below is the breakdown of the mentioned Notebook.
 
 #### 05 - ANOMALY_DETECTION
 
+###### INTRODUCTION
+Briefly explaining the following concepts:
+ - Keras
+ - Time series
+ - Anomaly detection
+ - Autoencoder
+ 
+######  DATA
+Giving an overview of the datasets used to train and test the model for anomaly detection.
+
+###### PREPROCESSING
+Preparing the datasets for the machine learning and explaining the techniques used.
+
+###### BUILD A MODEL
+Creation and compilation of the model. Brief explanation of the main concepts used for model building.
+
+###### TRAIN THE MODEL
+Training the previously built model.
+
+###### ANOMALY DETECTION
+Finally, using the model to detect anomalies.
+
+###### CONCLUSION
 
 ### REFERENCES 
 - LISTED IN CORRESPONDING NOTEBOOKS
