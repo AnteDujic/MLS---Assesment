@@ -32,7 +32,7 @@ MLS-Assesment
 
 1. Clone the repository from the [GitHub](https://github.com/AnteDujic/MLS-Assessment)
 2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
-3. Download [cmder](https://cmder.net/)
+3. Download [cmder](https://cmder.app/)
 4. Run Jupyter Lab or Jupyter Notebook
 5. Open the wanted notebook in Jupyter
 
@@ -61,7 +61,7 @@ There are three exercises in this notebook. First two are centered around A Lady
 
 #### 02 - MODELS
 
-There are 
+There are two exercises in this notebook.
 
 - Exercise 1 - Plot the absolute value function. Research and explain why the absolute value function is not typically used in fitting straight lines to data.
 - Exercise 2 - Fit a straight line to the given data points, using numpy.polyfit, scipy.optimize.minimize and scipy.optimize.curve_fit. Explain if a straight line is a good model for the given data points.
@@ -69,12 +69,14 @@ There are
 #### 03 - PARAMETERS
 ***
 
+There is one exercise in this notebook.
+
 - Exercise 1 - Use numpy's polyfit to fit polynomials to the given data sets.
 
 #### 04 - LEARNING
 ***
 
-- No Exercises
+There are no exercises in this notebook.
 
 ### :file_folder: FINAL ASSESMENT
 <hr style="border:2px solid gray"> </hr>
