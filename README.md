@@ -5,7 +5,7 @@
 This repository contains notebooks for the practicals and final assessment done for Machine Learning and Statistics module on ATU, Ireland. The layout of this repository is:
 
 ```
-MLS-Assesment
+MLS-Assessment
 │   .gitignore
 │   README.md                   
 │
