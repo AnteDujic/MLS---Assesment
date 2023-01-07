@@ -76,14 +76,14 @@ There are
 
 - No Exercises
 
-### FINAL ASSESMENT
+### :file_folder: FINAL ASSESMENT
 <hr style="border:2px solid gray"> </hr>
 
 This folder contains one notebook - Anomaly detection, done as a final assesment for this Module. The task was to recreate the anomaly detection code from Keras website, explain and further develop the concepts contained in this official documentation. Below is the breakdown of the mentioned Notebook.
 
 #### 05 - ANOMALY_DETECTION
 ***
-###### INTRODUCTION
+###### * INTRODUCTION
 Briefly explaining the following concepts:
  - Keras
  - Time series
