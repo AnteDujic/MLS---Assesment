@@ -2,7 +2,7 @@
 ### AUTHOR: ANTE DUJIC
 <hr style="border:2px solid gray"> </hr>
 
-This repository contains notebooks for the practicals and final assesment done for Machine Learning and Statistics module on ATU, Ireland. The layout of this repository is:
+This repository contains notebooks for the practicals and final assessment done for Machine Learning and Statistics module on ATU, Ireland. The layout of this repository is:
 
 ```
 MLS-Assesment
@@ -19,7 +19,7 @@ MLS-Assesment
 │       │   single_input.svg
 │       │   single_neuron.svg
 │   
-└───Final Assesment
+└───Final Assessment
 │   │   05-anomaly_detection.ipynb
 │   │   
 │   └───Img                     
@@ -78,36 +78,36 @@ There is one exercise in this notebook.
 
 There are no exercises in this notebook.
 
-### :file_folder: FINAL ASSESMENT
+### :file_folder: FINAL ASSESSMENT
 <hr style="border:2px solid gray"> </hr>
 
-This folder contains one notebook - Anomaly detection, done as a final assesment for this Module. The task was to recreate the anomaly detection code from [Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/), explain and further develop the concepts contained in this official documentation. Below is the breakdown of the mentioned Notebook.
+This folder contains one notebook - Anomaly detection, done as a final assessment for this Module. The task was to recreate the anomaly detection code from [Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/), explain and further develop the concepts contained in this official documentation. Below is the breakdown of the mentioned Notebook.
 
 #### 05 - ANOMALY_DETECTION
 ***
-###### • <u>INTRODUCTION</u>
+###### • INTRODUCTION
 Briefly explaining the following concepts:
  - Keras
  - Time series
  - Anomaly detection
  - Autoencoder
  
-######  • <u>DATA</u>
+######  • DATA
 Giving an overview of the datasets used to train and test the model for anomaly detection.
 
-###### • <u>PREPROCESSING</u>
+###### • PREPROCESSING
 Preparing the datasets for the machine learning and explaining the techniques used.
 
-###### • <u>BUILD A MODEL</u>
+###### • BUILD A MODEL
 Creation and compilation of the model. Brief explanation of the main concepts used for model building.
 
-###### • <u>TRAIN THE MODEL</u>
+###### • TRAIN THE MODEL
 Training the previously built model.
 
-###### • <u>ANOMALY DETECTION</u>
+###### • ANOMALY DETECTION
 Finally, using the model to detect anomalies.
 
-###### • <u>CONCLUSION</u>
+###### • CONCLUSION
 
 
 ### REFERENCES
