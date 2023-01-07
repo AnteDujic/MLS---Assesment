@@ -15,14 +15,14 @@ MLS-Assesment
 │   │   03-parameters.ipynb
 │   │   04-learning.ipynb
 │   │   
-│   └───img                     
-│       │   single_input.drawio.svg
-│       │   single_neuron.drawio.svg
+│   └───Img                     
+│       │   single_input.svg
+│       │   single_neuron.svg
 │   
 └───Final Assesment
 │   │   05-anomaly_detection.ipynb
 │   │   
-│   └───img                     
+│   └───Img                     
 │       │   window.drawio.svg
 ```
 
@@ -85,29 +85,29 @@ This folder contains one notebook - Anomaly detection, done as a final assesment
 
 #### 05 - ANOMALY_DETECTION
 ***
-###### • INTRODUCTION
+###### • <u>INTRODUCTION<\u>
 Briefly explaining the following concepts:
  - Keras
  - Time series
  - Anomaly detection
  - Autoencoder
  
-######  • DATA
+######  • <u>DATA<\u>
 Giving an overview of the datasets used to train and test the model for anomaly detection.
 
-###### • PREPROCESSING
+###### • <u>PREPROCESSING<\u>
 Preparing the datasets for the machine learning and explaining the techniques used.
 
-###### • BUILD A MODEL
+###### • <u>BUILD A MODEL<\u>
 Creation and compilation of the model. Brief explanation of the main concepts used for model building.
 
-###### • TRAIN THE MODEL
+###### • <u>TRAIN THE MODEL<\u>
 Training the previously built model.
 
-###### • ANOMALY DETECTION
+###### • <u>ANOMALY DETECTION<\u>
 Finally, using the model to detect anomalies.
 
-###### • CONCLUSION
+###### • <u>CONCLUSION<\u>
 
 
 ### REFERENCES
