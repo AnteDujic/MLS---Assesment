@@ -7,7 +7,8 @@ This repository contains notebooks for the practicals and final assessment done 
 ```
 MLS-Assessment
 │   .gitignore
-│   README.md                   
+│   README.md
+│   requirements.txt                  
 │
 └───Practicals
 │   │   01-statistics.ipynb
